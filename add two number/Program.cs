@@ -10,10 +10,12 @@ namespace add_two_number
     {
         static void Main(string[] args)
         {
-            int a = 5;
-            int b = 20;
-            Console.WriteLine("substract :");
-            Console.WriteLine(a-b);
+            int firstNumber = Convert.ToInt32(Console.ReadLine());
+            int secondNumber = Convert.ToInt32(Console.ReadLine());
+
+            
+            Console.WriteLine("result of addition :"+(firstNumber+secondNumber));
+            
 
             Console.ReadKey();
         }
