@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\git submit\add two number\add two number\bin\Debug\add two number.exe.config
+C:\Users\User\Desktop\git submit\add two number\add two number\bin\Debug\add two number.exe
+C:\Users\User\Desktop\git submit\add two number\add two number\bin\Debug\add two number.pdb
+C:\Users\User\Desktop\git submit\add two number\add two number\obj\Debug\add two number.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\git submit\add two number\add two number\obj\Debug\add two number.exe
+C:\Users\User\Desktop\git submit\add two number\add two number\obj\Debug\add two number.pdb
+C:\Users\User\Desktop\github\AddTwoNumber\add two number\bin\Debug\add two number.exe.config
+C:\Users\User\Desktop\github\AddTwoNumber\add two number\obj\Debug\add two number.exe
+C:\Users\User\Desktop\github\AddTwoNumber\add two number\obj\Debug\add two number.pdb
